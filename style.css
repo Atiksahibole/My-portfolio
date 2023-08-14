@@ -1,4 +1,30 @@
-p{
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bolder;
+.nav-link{
+    font-family: 'Caprasimo', cursive;
+    font-weight: 100;
+}
+.web-image{
+    width: 100vw;
+    height: 100vh;
+}
+.abt-rw{
+    padding: 150px 100px;
+}
+.abt-txt{
+    color: rgb(20 7 148);
+    font-family: 'Lugrasimo', cursive;
+    font-size: 40px;
+}
+.cv-btn{
+    border: 2px solid rgb(20 7 148);
+    padding: 10px 20px;
+    /* margin: 10px; */
+    /* margin-top: 100px; */
+    border-radius: 10px;
+    text-decoration: none;
+}
+.icon-linkin{
+    width: 100px;
+    border: 2px solid rgb(20 7 148);
+    border-radius: 100%;
+    padding: 5px;
 }

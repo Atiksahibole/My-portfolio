@@ -9,11 +9,12 @@
 .abt-rw{
     padding: 150px 100px;
 }
-.abt-txt{
+.hom-txt{
     color: rgb(20 7 148);
     font-family: 'Lugrasimo', cursive;
     font-size: 40px;
 }
+
 .cv-btn{
     border: 2px solid rgb(20 7 148);
     padding: 10px 20px;
@@ -23,8 +24,8 @@
     text-decoration: none;
 }
 .icon-linkin{
-    width: 100px;
     border: 2px solid rgb(20 7 148);
-    border-radius: 100%;
-    padding: 5px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 100%;
 }
